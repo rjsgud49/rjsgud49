@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rjsgud49
+- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 - 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -8,7 +9,7 @@
   />
 </a>
 
-- 👀 I’m interested in ...
+- 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
