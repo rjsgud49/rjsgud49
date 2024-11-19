@@ -1,5 +1,11 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=rjsgus49&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-- 
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg">
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/rjsgud49"
