@@ -1,18 +1,23 @@
 <div align="center">
-  <img src="https://github.com/rjsgud49/rjsgud49/assets/logo.png" />
+  <img src="https://raw.githubusercontent.com/rjsgud49/rjsgud49/main/assets/logo.png" alt="Logo" width="200" />
 </div>
 
 <h3>✨개발스택✨<h3>
-<img src="https://m3-markdown-badges.vercel.app/stars/9/1/<rjsgud49>/<rjsgud49>">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+
+<h3>📶contact📶<h3>
+
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
+<p></p>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
+<p></p>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/rjsgud49"
