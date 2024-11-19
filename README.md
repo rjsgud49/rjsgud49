@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=hello%20rjsgud49&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 - 
 <a href="https://github.com/devxb/gitanimals">
   <img
