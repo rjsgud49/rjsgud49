@@ -46,21 +46,20 @@
 <div align="center">
   <h2>📶 Contact 📶</h2>
 
-  <a href="mailto:qkrrjsgud49@gmail.com">
+  <a href="mailto:qkrrjsgud49@gmail.com" target="_blank">
     <img
-      src="https://img.shields.io/badge/qkrrjsgud49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/qkrrjsgud49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://velog.io/@rjsgud49">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://velog.io/@rjsgud49" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 
-   <a href="https://discord.gg/vZUxZJHKQp">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />&nbsp
+  <a href="https://discord.gg/vZUxZJHKQp" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
   </a>
-  
-  
-   <a href="https://www.instagram.com/qkrrjsgud49/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" />&nbsp
+
+  <a href="https://www.instagram.com/qkrrjsgud49/" target="_blank">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" />
   </a>
 </div>
