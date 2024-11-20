@@ -38,8 +38,8 @@
   <p>GitHub 활동을 열심히 하여 동물농장도 취미 삼아 일궈보겠습니다.</p>
   <img
     src="https://render.gitanimals.org/farms/rjsgud49"
-    width="600"
-    height="200"
+    width="800"
+    height="300"
   />
 </div>
 
