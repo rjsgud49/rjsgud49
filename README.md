@@ -24,12 +24,14 @@
 <p>qkrrjsgud49@gmail.com</p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
 <p>rjsgud49</p>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg">
+<p>qkrrjsgud49<p>
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/rjsgud49 " 
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/rjsgud49"
+  width="600"
+  height="300"
+/>
 </a>
 
 -
