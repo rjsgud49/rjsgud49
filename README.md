@@ -13,6 +13,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
   
 <div align="center">
   <h2>🔧Tools🔧</h2>
@@ -23,14 +24,12 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
-  <img src="">
 </div>
 </div>
 
 <div align="center">
   <h2>🌱 공부 중... 🌱</h2>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 </div>
 
@@ -46,14 +45,22 @@
 
 <div align="center">
   <h2>📶 Contact 📶</h2>
+
   <a href="mailto:qkrrjsgud49@gmail.com">
     <img
       src="https://img.shields.io/badge/qkrrjsgud49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
-  <p>qkrrjsgud49@gmail.com</p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
-  <p>rjsgud49</p>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg">
-  <p>qkrrjsgud49</p>
+
+  <a href="https://velog.io/@rjsgud49">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+
+   <a href="https://discord.gg/vZUxZJHKQp">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />&nbsp
+  </a>
+  
+  
+   <a href="https://www.instagram.com/qkrrjsgud49/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" />&nbsp
+  </a>
 </div>
