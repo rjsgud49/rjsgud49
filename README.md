@@ -13,9 +13,18 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  
+<div align="center">
+  <h2>🔧Tools🔧</h2>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg"> 
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
+  <img src="">
+</div>
 </div>
 
 <div align="center">
@@ -37,6 +46,10 @@
 
 <div align="center">
   <h2>📶 Contact 📶</h2>
+  <a href="mailto:qkrrjsgud49@gmail.com">
+    <img
+      src="https://img.shields.io/badge/qkrrjsgud49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
   <p>qkrrjsgud49@gmail.com</p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
