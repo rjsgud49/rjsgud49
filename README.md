@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rjsgud49/rjsgud49/main/assets/logo.png" alt="Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/rjsgud49/rjsgud49/main/assets/logo.png" alt="Logo" width="100%" />
 </div>
 
-<h3>✨개발스택✨<h3>
+<div align="center">
+<h2>✨개발스택✨<h2>
+<div>
+
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
@@ -11,16 +14,19 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
 
-<h3>📶contact📶<h3>
+<div align="center">
+<h2>📶contact📶<h2>
+<div>
 
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg">
-<p></p>
+<p>qkrrjsgud49@gmail.com</p>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
-<p></p>
+<p>rjsgud49</p>
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/rjsgud49"
+    src="https://render.gitanimals.org/lines/rjsgud49 " 
     width="600"
     height="120"
   />
