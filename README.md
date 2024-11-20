@@ -39,7 +39,7 @@
   <img
     src="https://render.gitanimals.org/farms/rjsgud49"
     width="600"
-    height="300"
+    height="200"
   />
 </div>
 
