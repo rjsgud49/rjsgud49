@@ -37,7 +37,7 @@
 
 <div align="center">
   <h2>🐶 동물농장 🐶</h2>
-  <p>GitHub 활동을 열심히 하여 동물농장도 취미 삼아 일궈보겠습니다.</p>
+  <p>귀엽죠?.</p>
   <img
     src="https://render.gitanimals.org/farms/rjsgud49"
     width="800"
