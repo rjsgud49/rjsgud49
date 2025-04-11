@@ -13,7 +13,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
   
@@ -21,6 +20,7 @@
   <h2>🔧Tools🔧</h2>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg"> 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <h2>🌱 공부 중... 🌱</h2>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+  <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 </div>
 
