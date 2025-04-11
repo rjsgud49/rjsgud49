@@ -15,6 +15,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg">
   
 <div align="center">
   <h2>🔧Tools🔧</h2>
@@ -31,8 +32,7 @@
 
 <div align="center">
   <h2>🌱 공부 중... 🌱</h2>
-  <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
 </div>
 
 
