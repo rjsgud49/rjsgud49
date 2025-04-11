@@ -35,6 +35,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 </div>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rjsgud49=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <h2>🐶 동물농장 🐶</h2>
   <p>귀엽죠?.</p>
