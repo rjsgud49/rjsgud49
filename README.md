@@ -13,6 +13,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Typescript/Typescript3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg">
