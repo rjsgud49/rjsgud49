@@ -41,17 +41,16 @@
 
 
 <div align="center">
+
   <h2>🐶 동물농장 🐶</h2>
   <p>귀엽죠?.</p>
 
   <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap; align-items:flex-start;">
+    
     <div>
-      <img
-        src="https://render.gitanimals.org/farms/rjsgud49"
-        width="520"
-        height="195"
-      />
+      <img src="https://render.gitanimals.org/farms/rjsgud49" width="520" height="195" />
     </div>
+
     <div>
       <h2>⭐개발 언어⭐</h2>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -61,6 +60,7 @@
 
   </div>
 </div>
+
 
 
 <div align="center">
