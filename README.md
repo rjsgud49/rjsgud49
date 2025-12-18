@@ -41,10 +41,23 @@
 
 
 <div align="center">
+  <div >
+  <h2>🐶 동물농장 🐶</h2>
+  <p>귀엽죠?.</p>
+  <img
+    src="https://render.gitanimals.org/farms/rjsgud49"
+    width="800"
+    height="300"
+  />
+ 
+</div>
+
+  <div>
   <h2>⭐개발 언어⭐</h2>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 </div>
 
 <div align="center">
