@@ -41,35 +41,27 @@
 
 
 <div align="center">
-  <div >
   <h2>🐶 동물농장 🐶</h2>
   <p>귀엽죠?.</p>
-  <img
-    src="https://render.gitanimals.org/farms/rjsgud49"
-    width="800"
-    height="300"
-  />
- 
+
+  <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap; align-items:flex-start;">
+    <div>
+      <img
+        src="https://render.gitanimals.org/farms/rjsgud49"
+        width="520"
+        height="195"
+      />
+    </div>
+    <div>
+      <h2>⭐개발 언어⭐</h2>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49" />
+      </a>
+    </div>
+
+  </div>
 </div>
 
-  <div>
-  <h2>⭐개발 언어⭐</h2>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-</div>
-
-<div align="center">
-  <h2>🐶 동물농장 🐶</h2>
-  <p>귀엽죠?.</p>
-  <img
-    src="https://render.gitanimals.org/farms/rjsgud49"
-    width="800"
-    height="300"
-  />
- 
-</div>
 
 <div align="center">
   <h2>📶 Contact 📶</h2>
