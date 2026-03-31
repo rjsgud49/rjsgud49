@@ -42,9 +42,7 @@
 
 <div align="center">
 
-  <h2>🐶 동물농장 🐶</h2>
-  <p>귀엽죠?.</p>
-
+  <h2>🐶 지친 나를 위한 농장🐶</h2>
   <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap; align-items:flex-start;">
     <div>
       <img src="https://render.gitanimals.org/farms/rjsgud49" width="520" height="195" />
