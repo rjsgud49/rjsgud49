@@ -48,10 +48,6 @@
       <img src="https://render.gitanimals.org/farms/rjsgud49" width="520" height="195" />
     </div>
     <div>
-      <h2>⭐개발 언어⭐</h2>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49" />
-      </a>
     </div>
 
   </div>
