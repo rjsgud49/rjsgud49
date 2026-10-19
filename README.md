@@ -58,26 +58,8 @@ UX-focused frontend. React, TypeScript, realtime interfaces.
   <img alt="Recoil" src="https://img.shields.io/badge/Recoil-262626?style=flat-square&labelColor=0a0a0a&logo=recoil&logoColor=e5e5e5" />
 </p>
 
-학습 중 — NestJS, Express.
-
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-262626?style=flat-square&labelColor=0a0a0a&logo=nestjs&logoColor=e5e5e5" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-262626?style=flat-square&labelColor=0a0a0a&logo=express&logoColor=e5e5e5" />
-</p>
-
+학습 중 — NestJS, Express.<br/>
 도구 — Figma, VS Code, IntelliJ IDEA, Git, GitHub, Notion, Ubuntu. Windows와 Illustrator도 씁니다.
-
-<p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-262626?style=flat-square&labelColor=0a0a0a&logo=figma&logoColor=e5e5e5" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-262626?style=flat-square&labelColor=0a0a0a" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-262626?style=flat-square&labelColor=0a0a0a&logo=intellijidea&logoColor=e5e5e5" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-262626?style=flat-square&labelColor=0a0a0a&logo=git&logoColor=e5e5e5" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-262626?style=flat-square&labelColor=0a0a0a&logo=github&logoColor=e5e5e5" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-262626?style=flat-square&labelColor=0a0a0a&logo=notion&logoColor=e5e5e5" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-262626?style=flat-square&labelColor=0a0a0a&logo=ubuntu&logoColor=e5e5e5" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-262626?style=flat-square&labelColor=0a0a0a" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-262626?style=flat-square&labelColor=0a0a0a" />
-</p>
 
 ## 프로젝트
 
