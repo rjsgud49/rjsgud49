@@ -1,80 +1,145 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rjsgud49/rjsgud49/main/assets/logo.png" alt="Logo" width="100%" />
+
+<img src="assets/header.svg" width="100%" alt="" />
+
+# 박건형
+
+Gunhyoung Park
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=500&size=20&duration=2800&pause=1200&color=FAFAFA&background=0A0A0A&center=true&vCenter=true&width=720&height=40&lines=%EA%B2%BD%EB%B6%81%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A7%88%EC%9D%B4%EC%8A%A4%ED%84%B0%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90+3%ED%95%99%EB%85%84%3B%28%EC%A3%BC%29%EC%97%A0%EC%9C%A0%ED%8A%B8%EB%A1%A0+%EC%9D%B8%ED%84%B4%3BUX+%EC%A4%91%EC%8B%AC+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C" alt="경북소프트웨어마이스터고등학교 3학년" />
+
+경북소프트웨어마이스터고등학교 3학년이고, 프론트엔드를 합니다.<br/>
+현재 (주)엠유트론 인턴입니다.
+
+깊이 있게 문제를 탐구하며 사용자 경험을 끝까지 개선합니다.<br/>
+요구사항을 빠르게 구조화하고, 기능 단위로 결과를 도출합니다.
+
+UX-focused frontend. React, TypeScript, realtime interfaces.
+
+목표는 돈 잘벌고 행복한 프론트엔드 개발자입니다.
+
+<br/>
+
+[포트폴리오](https://rjsgud.com) ·
+[Velog](https://velog.io/@rjsgud49) ·
+[Notion](https://rjsgud.notion.site/UX-32d39cf20212806e97bccb0b402094d4) ·
+[qkrrjsgud49@gmail.com](mailto:qkrrjsgud49@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/%EA%B1%B4%ED%98%95-%EB%B0%95-6631b8320/) ·
+[Discord](https://discord.gg/vZUxZJHKQp) ·
+[Instagram](https://www.instagram.com/qkrrjsgud49/)
+
+</div>
+
+## 기술
+
+프론트는 React, TypeScript, Vite, Redux, Tailwind를 주로 씁니다. 실시간은 WebSocket과 Socket.io, 지도는 Kakao Map입니다. Next.js, Recoil, Axios도 쓰고, Spring, Node, MySQL, Python, FastAPI, Docker, AWS도 다뤘습니다.
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-262626?style=flat-square&labelColor=0a0a0a&logo=html5&logoColor=e5e5e5" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-262626?style=flat-square&labelColor=0a0a0a&logo=css&logoColor=e5e5e5" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&labelColor=0a0a0a&logo=javascript&logoColor=e5e5e5" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-262626?style=flat-square&labelColor=0a0a0a&logo=typescript&logoColor=e5e5e5" />
+  <img alt="React" src="https://img.shields.io/badge/React-262626?style=flat-square&labelColor=0a0a0a&logo=react&logoColor=e5e5e5" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-262626?style=flat-square&labelColor=0a0a0a&logo=redux&logoColor=e5e5e5" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-262626?style=flat-square&labelColor=0a0a0a&logo=vite&logoColor=e5e5e5" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-262626?style=flat-square&labelColor=0a0a0a&logo=tailwindcss&logoColor=e5e5e5" />
+  <img alt="Axios" src="https://img.shields.io/badge/Axios-262626?style=flat-square&labelColor=0a0a0a&logo=axios&logoColor=e5e5e5" />
+</p>
+
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-262626?style=flat-square&labelColor=0a0a0a&logo=nextdotjs&logoColor=e5e5e5" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node%2Ejs-262626?style=flat-square&labelColor=0a0a0a&logo=nodedotjs&logoColor=e5e5e5" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-262626?style=flat-square&labelColor=0a0a0a&logo=spring&logoColor=e5e5e5" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-262626?style=flat-square&labelColor=0a0a0a&logo=mysql&logoColor=e5e5e5" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-262626?style=flat-square&labelColor=0a0a0a&logo=python&logoColor=e5e5e5" />
+  <img alt="Socket.io" src="https://img.shields.io/badge/Socket%2Eio-262626?style=flat-square&labelColor=0a0a0a&logo=socketdotio&logoColor=e5e5e5" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-262626?style=flat-square&labelColor=0a0a0a&logo=docker&logoColor=e5e5e5" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-262626?style=flat-square&labelColor=0a0a0a&logo=fastapi&logoColor=e5e5e5" />
+  <img alt="Recoil" src="https://img.shields.io/badge/Recoil-262626?style=flat-square&labelColor=0a0a0a&logo=recoil&logoColor=e5e5e5" />
+</p>
+
+학습 중 — NestJS, Express.<br/>
+도구 — Figma, VS Code, IntelliJ IDEA, Git, GitHub, Notion, Ubuntu. Windows와 Illustrator도 씁니다.
+
+## 프로젝트
+
+### [GDRS](https://github.com/FireFighterProject/fire_frontend)
+
+재난대응 동원차량 관제. 지령, 차량, 대원, 위치, 통계를 한 화면으로 묶었습니다. 의성 소방서와 협업했고, 소방서에서 실사용 환경으로 시연했습니다. 프론트엔드 1명이 맡았고, 실차 GPS 테스트는 14/15이 성공했습니다.
+
+2025.3–2026.2
+
+### [ROOMIT](https://github.com/GoodgatewayGoodgateway/front)
+
+1인 가구의 생활 습관·성향 매칭과 실시간 채팅. 교내 캡스톤 금상. 프론트에서 Socket.io 채팅, Redux 상태, AWS 배포를 맡았습니다.
+
+2025.3–2025.7
+
+### [Echovo](https://github.com/rjsgud49/Echovo)
+
+브라우저에서 도는 AI 기술면접. 질문 생성, 음성 인식, 채점 피드백, 통계와 PDF까지 혼자 만들었습니다. [데모](https://echovo.vercel.app)
+
+2025.7–2025.8
+
+## 패키지
+
+### [react-maskify](https://www.npmjs.com/package/react-maskify)
+
+React 19용 입력 마스크. `findDOMNode` 없는 react-input-mask 대안이고, 의존성 없이 TypeScript로 작성했습니다.
+
+<p>
+  <a href="https://www.npmjs.com/package/react-maskify"><img alt="react-maskify version" src="https://img.shields.io/npm/v/react-maskify?style=flat-square&color=262626&labelColor=0a0a0a&logo=npm&logoColor=e5e5e5" /></a>
+  <a href="https://www.npmjs.com/package/react-maskify"><img alt="react-maskify downloads" src="https://img.shields.io/npm/dm/react-maskify?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
+</p>
+
+### [@mutron-ltd/mutron-ui](https://www.npmjs.com/package/@mutron-ltd/mutron-ui)
+
+React UI 컴포넌트 라이브러리. 메인테이너로 있습니다.
+
+<p>
+  <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui version" src="https://img.shields.io/npm/v/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&logo=npm&logoColor=e5e5e5" /></a>
+  <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui downloads" src="https://img.shields.io/npm/dm/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
+</p>
+
+### [create-vite-react-boot](https://www.npmjs.com/package/create-vite-react-boot)
+
+Vite + React + TypeScript 앱을 만드는 스캐폴드. Tailwind, axios, AuthContext, 로그인·회원가입, 라우팅이 들어 있습니다.
+
+<p>
+  <a href="https://www.npmjs.com/package/create-vite-react-boot"><img alt="create-vite-react-boot version" src="https://img.shields.io/npm/v/create-vite-react-boot?style=flat-square&color=262626&labelColor=0a0a0a&logo=npm&logoColor=e5e5e5" /></a>
+  <a href="https://www.npmjs.com/package/create-vite-react-boot"><img alt="create-vite-react-boot downloads" src="https://img.shields.io/npm/dm/create-vite-react-boot?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
+</p>
+
+## 기여
+
+### [toss/react-simplikit #567](https://github.com/toss/react-simplikit/pull/567)
+
+머지됨. `useScrollDirection`이 스크롤 리스너를 걷어낼 때 스로틀 타이머 ref를 비우지 않아, 그 다음부터 방향을 갱신하지 않던 문제를 고쳤습니다.
+
+머지된 다른 PR만 적습니다.
+
+- [FishRank](https://github.com/FishRank-TEAM/FishRank/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged) — API, 인증, 랭킹, 업로드
+- [ADA-LipSum/Front](https://github.com/ADA-LipSum/Front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
+- [Eodigaljido/front](https://github.com/Eodigaljido/front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
+- [Dropz-to-a/front](https://github.com/Dropz-to-a/front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
+
+## 기록
+
+<div align="center">
+
+<img alt="GitHub 통계" src="https://github-readme-stats.vercel.app/api?username=rjsgud49&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=d4d4d4&locale=kr&border_radius=8&rank_icon=percentile" />
+<img alt="많이 쓴 언어" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&locale=kr&border_radius=8&langs_count=6" />
+
+<br/>
+
+<img alt="기여 연속 기록" src="https://streak-stats.demolab.com?user=rjsgud49&hide_border=true&background=0A0A0A&ring=D4D4D4&fire=FAFAFA&currStreakLabel=FAFAFA&sideLabels=A3A3A3&dates=737373&currStreakNum=FAFAFA&sideNums=A3A3A3&stroke=262626&locale=ko&border_radius=8" />
+
+<br/>
+
+<img alt="기여 그래프를 따라가는 스네이크" src="https://raw.githubusercontent.com/rjsgud49/rjsgud49/output/github-snake.svg" />
+
 </div>
 
 <div align="center">
-  <h2>👀 자기소개 👀</h2>
-  <h4>현재 경북소프트웨어마이스터고등학교 3학년으로 재학 중이며</h4>
-  <h4>(주)엠유트론 의 인턴으로 있습니다</h4>
-  
-  <h4>목표는 돈 잘벌고 행복한 프론트엔드 개발자입니다.</h4>
-  https://rjsgud.com/
-</div>
-
-<div align="center">
-  <h2>✨ 개발스택 ✨</h2>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux1.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios1.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg">
-  
-<div align="center">
-  <h2>🔧Tools🔧</h2>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea1.svg"> 
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
-</div>
-</div>
-
-<div align="center">
-  <h2>🌱 공부 중... 🌱</h2>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg">
-</div>
-
-
-<div align="center">
-
-  <h2>🐶 지친 나를 위한 농장🐶</h2>
-  <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap; align-items:flex-start;">
-    <div>
-      <img src="https://render.gitanimals.org/farms/rjsgud49" width="520" height="195" />
-    </div>
-    <div>
-    </div>
-
-  </div>
-</div>
-
-
-
-<div align="center">
-  <h2>📶 Contact 📶</h2>
-
-  <a href="mailto:qkrrjsgud49@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/qkrrjsgud49@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://velog.io/@rjsgud49" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-
-  <a href="https://discord.gg/vZUxZJHKQp" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" />
-  </a>
-
-  <a href="https://www.instagram.com/qkrrjsgud49/" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" />
-  </a>
+  <img src="assets/footer.svg" width="100%" alt="" />
 </div>

@@ -1,0 +1,49 @@
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#ffffff&color_dots=#161616,#3a3a3a,#5c5c5c,#8a8a8a,#cfcfcf
+
+      - name: paint background
+        run: |
+          python3 - << 'PY'
+          from pathlib import Path
+          path = Path("dist/github-snake.svg")
+          svg = path.read_text()
+          needle = 'xmlns="http://www.w3.org/2000/svg">'
+          rect = needle + '<rect x="-200" y="-200" width="2000" height="800" fill="#0a0a0a"/>'
+          if needle not in svg:
+              raise SystemExit("svg root not found")
+          if 'fill="#0a0a0a"' not in svg:
+              svg = svg.replace(needle, rect, 1)
+              path.write_text(svg)
+          PY
+
+      - name: publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          author: "rjsgud49 <162693556+rjsgud49@users.noreply.github.com>"
+          committer: "rjsgud49 <162693556+rjsgud49@users.noreply.github.com>"
+          commit_message: "ci: 기여 스네이크 갱신"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
