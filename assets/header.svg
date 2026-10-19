@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="">
+  <rect width="1200" height="72" fill="#0a0a0a"/>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1.1" cy="1.1" r="0.95" fill="#ffffff" fill-opacity="0.34"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.72" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade-mask">
+      <rect width="1200" height="72" fill="url(#fade)"/>
+    </mask>
+  </defs>
+  <rect width="1200" height="72" fill="url(#dots)" mask="url(#fade-mask)"/>
+</svg>
