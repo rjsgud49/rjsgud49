@@ -61,26 +61,6 @@ UX-focused frontend. React, TypeScript, realtime interfaces.
 학습 중 — NestJS, Express.<br/>
 도구 — Figma, VS Code, IntelliJ IDEA, Git, GitHub, Notion, Ubuntu. Windows와 Illustrator도 씁니다.
 
-## 프로젝트
-
-### [GDRS](https://github.com/FireFighterProject/fire_frontend)
-
-재난대응 동원차량 관제. 지령, 차량, 대원, 위치, 통계를 한 화면으로 묶었습니다. 의성 소방서와 협업했고, 소방서에서 실사용 환경으로 시연했습니다. 프론트엔드 1명이 맡았고, 실차 GPS 테스트는 14/15이 성공했습니다.
-
-2025.3–2026.2
-
-### [ROOMIT](https://github.com/GoodgatewayGoodgateway/front)
-
-1인 가구의 생활 습관·성향 매칭과 실시간 채팅. 교내 캡스톤 금상. 프론트에서 Socket.io 채팅, Redux 상태, AWS 배포를 맡았습니다.
-
-2025.3–2025.7
-
-### [Echovo](https://github.com/rjsgud49/Echovo)
-
-브라우저에서 도는 AI 기술면접. 질문 생성, 음성 인식, 채점 피드백, 통계와 PDF까지 혼자 만들었습니다. [데모](https://echovo.vercel.app)
-
-2025.7–2025.8
-
 ## 패키지
 
 ### [react-maskify](https://www.npmjs.com/package/react-maskify)
@@ -100,28 +80,6 @@ React UI 컴포넌트 라이브러리. 메인테이너로 있습니다.
   <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui version" src="https://img.shields.io/npm/v/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&logo=npm&logoColor=e5e5e5" /></a>
   <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui downloads" src="https://img.shields.io/npm/dm/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
 </p>
-
-### [create-vite-react-boot](https://www.npmjs.com/package/create-vite-react-boot)
-
-Vite + React + TypeScript 앱을 만드는 스캐폴드. Tailwind, axios, AuthContext, 로그인·회원가입, 라우팅이 들어 있습니다.
-
-<p>
-  <a href="https://www.npmjs.com/package/create-vite-react-boot"><img alt="create-vite-react-boot version" src="https://img.shields.io/npm/v/create-vite-react-boot?style=flat-square&color=262626&labelColor=0a0a0a&logo=npm&logoColor=e5e5e5" /></a>
-  <a href="https://www.npmjs.com/package/create-vite-react-boot"><img alt="create-vite-react-boot downloads" src="https://img.shields.io/npm/dm/create-vite-react-boot?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
-</p>
-
-## 기여
-
-### [toss/react-simplikit #567](https://github.com/toss/react-simplikit/pull/567)
-
-머지됨. `useScrollDirection`이 스크롤 리스너를 걷어낼 때 스로틀 타이머 ref를 비우지 않아, 그 다음부터 방향을 갱신하지 않던 문제를 고쳤습니다.
-
-머지된 다른 PR만 적습니다.
-
-- [FishRank](https://github.com/FishRank-TEAM/FishRank/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged) — API, 인증, 랭킹, 업로드
-- [ADA-LipSum/Front](https://github.com/ADA-LipSum/Front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
-- [Eodigaljido/front](https://github.com/Eodigaljido/front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
-- [Dropz-to-a/front](https://github.com/Dropz-to-a/front/pulls?q=is%3Apr+author%3Arjsgud49+is%3Amerged)
 
 ## 기록
 
