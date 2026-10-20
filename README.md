@@ -32,7 +32,7 @@ UX-focused frontend. React, TypeScript, realtime interfaces.
 
 ## 기술
 
-프론트는 React, TypeScript, Vite, Redux, Tailwind를 주로 씁니다. 실시간은 WebSocket과 Socket.io, 지도는 Kakao Map입니다. Next.js, Recoil, Axios도 쓰고, Spring, Node, MySQL, Python, FastAPI, Docker, AWS도 다뤘습니다.
+프론트는 Next.js, React, TypeScript, Vite, Redux, Tailwind를 주로 씁니다. WebSocket과 Socket.io Recoil, Axios도 쓰고, Spring, Node, MySQL, Python, FastAPI, Docker, AWS도 다뤘습니다.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-262626?style=flat-square&labelColor=0a0a0a&logo=html5&logoColor=e5e5e5" />
