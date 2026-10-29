@@ -85,11 +85,6 @@ React UI 컴포넌트 라이브러리. 메인테이너로 있습니다.
   <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui downloads" src="https://img.shields.io/npm/dm/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
 </p>
 
-## 오픈소스 기여
-
-- [toss/react-simplikit #576](https://github.com/toss/react-simplikit/pull/576): `useLongPress`가 터치 후 발생하는 에뮬레이션 마우스 이벤트를 무시하도록 수정 (merged)
-- [chakra-ui/zag #3523](https://github.com/chakra-ui/zag/pull/3523): tooltip이 disabled 해제 후 첫 hover에서 열리도록 수정 (merged)
-
 ## 기록
 
 <div align="center">
