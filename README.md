@@ -28,11 +28,15 @@ UX-focused frontend. React, TypeScript, realtime interfaces.
 [Discord](https://discord.gg/vZUxZJHKQp) ·
 [Instagram](https://www.instagram.com/qkrrjsgud49/)
 
+<br/><br/>
+
+<img alt="프로필 방문자 수" src="https://komarev.com/ghpvc/?username=rjsgud49&label=Profile%20views&color=262626&style=flat-square" />
+
 </div>
 
 ## 기술
 
-프론트는 Next.js, React, TypeScript, Vite, Redux, Tailwind를 주로 씁니다. WebSocket과 Socket.io Recoil, Axios도 쓰고, Spring, Node, MySQL, Python, FastAPI, Docker, AWS도 다뤘습니다.
+프론트는 Next.js, React, TypeScript, Vite, Redux, Tailwind를 주로 씁니다. WebSocket, Socket.io, Recoil, Axios도 쓰고, Spring, Node, MySQL, Python, FastAPI, Docker, AWS도 다뤘습니다.
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-262626?style=flat-square&labelColor=0a0a0a&logo=html5&logoColor=e5e5e5" />
@@ -81,14 +85,14 @@ React UI 컴포넌트 라이브러리. 메인테이너로 있습니다.
   <a href="https://www.npmjs.com/package/@mutron-ltd/mutron-ui"><img alt="mutron-ui downloads" src="https://img.shields.io/npm/dm/@mutron-ltd/mutron-ui?style=flat-square&color=262626&labelColor=0a0a0a&label=downloads" /></a>
 </p>
 
+## 오픈소스 기여
+
+- [toss/react-simplikit #576](https://github.com/toss/react-simplikit/pull/576): `useLongPress`가 터치 후 발생하는 에뮬레이션 마우스 이벤트를 무시하도록 수정 (merged)
+- [chakra-ui/zag #3523](https://github.com/chakra-ui/zag/pull/3523): tooltip이 disabled 해제 후 첫 hover에서 열리도록 수정 (merged)
+
 ## 기록
 
 <div align="center">
-
-<img alt="GitHub 통계" src="https://github-readme-stats.vercel.app/api?username=rjsgud49&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&icon_color=d4d4d4&locale=kr&border_radius=8&rank_icon=percentile" />
-<img alt="많이 쓴 언어" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsgud49&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=fafafa&text_color=a3a3a3&locale=kr&border_radius=8&langs_count=6" />
-
-<br/>
 
 <img alt="기여 연속 기록" src="https://streak-stats.demolab.com?user=rjsgud49&hide_border=true&background=0A0A0A&ring=D4D4D4&fire=FAFAFA&currStreakLabel=FAFAFA&sideLabels=A3A3A3&dates=737373&currStreakNum=FAFAFA&sideNums=A3A3A3&stroke=262626&locale=ko&border_radius=8" />
 
